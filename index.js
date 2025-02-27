@@ -76,7 +76,30 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `Bot Name connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `Bot Name connected successful ✅\n\nPREFIX: ${prefix}
+
+        
+     * _𝐇𝐄𝐋𝐋𝐎𝐖 𝐁𝐔𝐃𝐃𝐘... ❠_
+
+* _𝐈'𝐦 𝐒𝐇𝐀𝐆𝐄𝐄 𝐌𝐃  𝐕 1💚_❠
+
+* _.𝐦𝐞𝐧𝐮 𝐨𝐫 .𝐥𝐢𝐬𝐭 𝐆𝐄𝐓 𝐀𝐋𝐋 𝐂𝐌𝐃 𝐋𝐈𝐒𝐓_  ⚙️⛓️❠
+
+* _𝐔𝐒𝐄 𝐀𝐍𝐘 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓 📩_❠
+
+* _𝐏𝐎𝐖𝐄𝐑𝐃 𝐁𝐘 𝐏𝐑𝐀𝐁𝐀𝐓𝐇 𝐘𝐓 𝐁𝐀𝐒𝐄 ❠_
+
+* _𝐓𝐇𝐀𝐍𝐊𝐒 𝐃𝐈𝐃𝐔𝐋𝐀-𝐌𝐃💚❠_
+
+* _𝐓𝐇𝐀𝐍𝐊𝐒 𝐖𝐇𝐈𝐓𝐄 𝐓𝐈𝐆𝐄𝐑 💚❠_
+
+* _𝐕𝐎𝐈𝐂𝐄 𝐇𝐄𝐋𝐏 𝐒𝐀𝐃𝐇𝐀𝐍𝐈 💚❠_
+
+* _𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄 𝐒𝐇𝐀𝐆𝐄𝐄 𝐌𝐃 𝐕1 💚❠_
+
+
+
+> _𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐂𝐘𝐁𝐄𝐑 𝐒𝐇𝐀𝐆𝐄𝐄_💚⛓️❠   `;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/M5g5DdYY/Golden-Queen-MD-VIMAMODS-67006b1fdd617d59.jpg` }, caption: up })
 
